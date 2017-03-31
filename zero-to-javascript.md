@@ -1,6 +1,6 @@
 # Zero-to-JavaScript
 
-##### Confused? The [Zero-to-Dev](../..) doc should explain things nicely!
+### Confused? The [Zero-to-Dev](../..) doc should explain things nicely!
 _(Psst! There's also some [Boring Reference Materials](#boring-stuff) at the bottom of this doc...)_
 
 ---
