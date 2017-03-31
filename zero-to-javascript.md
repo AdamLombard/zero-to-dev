@@ -1,6 +1,6 @@
 # Zero-to-JavaScript
 
-Confused? The [Zero-to_dev](../zero-to-dev.md) doc should explain things. :)
+Confused? The [Zero-to_dev](../../..) doc should explain things. :)
 ---
 
 ---
