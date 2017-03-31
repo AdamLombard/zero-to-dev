@@ -11,5 +11,5 @@ Suggestions welcome! :)
 
 ---
 
-- [Git & GitHub](
+- [Git & GitHub](/zero-to-git.md)
 - [JavaScript](/zero-to-javascript.md/)
