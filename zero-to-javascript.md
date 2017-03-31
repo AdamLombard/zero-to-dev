@@ -1,7 +1,7 @@
 # Zero-to-JavaScript
 
-###### Confused? The [Zero-to-Dev](../..) doc should explain things nicely!
-(There's also som [Boring Reference Materials](#boring-stuff) at the bottom of the doc...)
+##### Confused? The [Zero-to-Dev](../..) doc should explain things nicely!
+_(Psst! There's also some [Boring Reference Materials](#boring-stuff) at the bottom of this doc...)_
 
 ---
 #### Fun Stuff
@@ -12,4 +12,4 @@
 #### Boring Stuff
 
 - [MDN JS Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
-- [ECMAScript Specification](https://tc39.github.io/ecma262/) 
+- [ECMAScript Specification](https://tc39.github.io/ecma262/)
