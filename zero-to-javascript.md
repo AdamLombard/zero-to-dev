@@ -9,6 +9,6 @@
 - [ECMAScript Specification](https://tc39.github.io/ecma262/) 
 
 ---
-### Fun Stuff
+#### Fun Stuff
 - [JavaScript for Cats](http://jsforcats.com/)
 - [Watch and Code](https://watchandcode.com/p/practical-javascript)
