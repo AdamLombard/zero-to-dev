@@ -1,7 +1,7 @@
 # Zero-to-JavaScript
 
 ### Confused? The [Zero-to-Dev](../..) doc should explain things nicely!
-_(Psst! There's also some [Boring Reference Materials](#boring-stuff) at the bottom of this doc...)_
+_(Psst! There's also some [Boring Reference Materials](#boring-stuff) at the bottom...)_
 
 ---
 #### Fun Stuff
