@@ -11,3 +11,6 @@ If you know zero about Git & GitHub, just start at the top of this list:
 
 ---
 #### Boring Stuff
+
+- [Git Reference](https://git-scm.com/docs)
+- [Git Pro Book](https://git-scm.com/book)
