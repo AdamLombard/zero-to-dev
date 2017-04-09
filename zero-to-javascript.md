@@ -7,7 +7,7 @@ _(Psst! There's also some [Boring Reference Materials](#boring-stuff) at the bot
 #### Fun Stuff
 If you know zero about JavaScript, just start at the top of this list:
 - [x] [JavaScript for Cats](http://jsforcats.com/)
-- [x] [Watch and Code](https://watchandcode.com/p/practical-javascript)
+- [ ] [Watch and Code](https://watchandcode.com/p/practical-javascript)
 
 ---
 #### Boring Stuff
