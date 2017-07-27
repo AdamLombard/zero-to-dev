@@ -6,9 +6,9 @@ _(Psst! There's also some [Boring Reference Materials](#boring-stuff) at the bot
 ---
 #### Fun Stuff
 If you know zero about Git & GitHub, just start at the top of this list:
-- [ ] [GitHub Hello World](https://guides.github.com/activities/hello-world/)
-- [x] [Git-it](https://github.com/jlord/git-it-electron/)
-- [ ] [Understanding the GitHub Flow](https://guides.github.com/introduction/flow/)
+- [GitHub Hello World](https://guides.github.com/activities/hello-world/)
+- [Git-it](https://github.com/jlord/git-it-electron/)
+- [Understanding the GitHub Flow](https://guides.github.com/introduction/flow/)
 
 ---
 #### Boring Stuff
