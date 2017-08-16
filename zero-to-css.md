@@ -5,7 +5,7 @@ _(Psst! There's also some [Boring Reference Materials](#boring-stuff) at the bot
 
 ---
 #### Fun Stuff
-If you know zero about JavaScript, just start at the top of this list:
+If you know zero about CSS, just start at the top of this list:
 - [Learn CSS Layout](http://learnlayout.com/) - Basics of layout
 - [CSS Diner](https://flukeout.github.io/) - Selectors
 
